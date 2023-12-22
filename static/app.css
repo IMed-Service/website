@@ -1,0 +1,3 @@
+.bg-main-gradient { 
+    background: linear-gradient(45deg, rgba(var(--color-surface-300)), rgba(var(--color-secondary-300)));
+}
